@@ -1,0 +1,23 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+}
+.first{
+    background-color: yellow;
+}
+.main{
+    color: rgb(194, 32, 32);
+}
+p{
+    color:brown;
+}
+body{
+    background-image: url(./cat.jpg);
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
